@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Hayes;Scott;;;
+FN: Scott  Hayes 
+ORG:Liberty University;
+TITLE:Dean, Professor of Theatre Arts\nSchool of Communication & the Arts
+EMAIL;type=INTERNET;type=WORK;type=pref:smhayes@liberty.edu
+TEL;type=WORK;type=VOICE:4345926744
+item1.ADR;type=WORK;type=pref:;;1971 University Blvd.\nLynchburg, VA 24515
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:liberty.edu/arts
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
